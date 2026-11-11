@@ -200,4 +200,5 @@ Report verification against the tested commit and environment, including skips. 
 - [docker/AGENTS.md](docker/AGENTS.md): Docker runtime files, example configuration and startup-folder documentation.
 - [docs/AGENTS.md](docs/AGENTS.md): Installation, releases and user/developer documentation.
 - [assets/AGENTS.md](assets/AGENTS.md): Original logo artwork and its optimized UI copies.
+- [aspace-tuxee-adapter/AGENTS.md](aspace-tuxee-adapter/AGENTS.md): A'Space adapter (fiber:a0:tuxee, D-N053 pas B).
 - Root owns README.md, LICENSE, CONTRIBUTING.md, install.sh, build/package configuration, CLI entrypoint, Dockerfile, compose.yaml and third-party notices.
